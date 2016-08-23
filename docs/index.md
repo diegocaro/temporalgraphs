@@ -38,7 +38,7 @@ We experimentally evaluate all the structures and compare them with previous alt
 
 ### International Workshops
 
- - D. Caro, "A compressed hexatree for temporal-graph indexing... or how to compress the $k^4$-tree," presented at the SPIRE 2014 Workshop on Compression, Text, and Al- gorithms (WCTA 2014), Ouro Preto, Brazil.
+ - D. Caro, "A compressed hexatree for temporal-graph indexing... or how to compress the $k^4$-tree," presented at the SPIRE 2014 Workshop on Compression, Text, and Algorithms (WCTA 2014), Ouro Preto, Brazil.
 
 ### Manuscripts 
  - N. R. Brisaboa, D. Caro, A. Fariña, and M. A. Rodríguez, "Using Compressed Suffix-Arrays for a Compact Representation of Temporal-Graphs". (under review)
@@ -56,4 +56,4 @@ And of course, I would like to say thank to my co-phd-workers José Fuentes, Eri
 
 This work was partially supported by a CONICYT doctoral fellowship, by Fondecyt 1140428, and by Fondef D09I1185.
 
-The idea of creating this web site was borrowed from my friend and colleage [José Fuentes](http://www.inf.udec.cl/~josefuentes/thesis/).
+The idea of creating this web site was borrowed from my friend and colleage [José Fuentes](http://thesis.josefuentes.cl).
