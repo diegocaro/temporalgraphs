@@ -1,4 +1,4 @@
-# Compact data structres for temporal graphs
+# Compact Data Structures for Temporal Graphs
 PhD Thesis 
 by Diego Caro A. \<diegocaro at udec cl\>
 
@@ -7,7 +7,7 @@ Co-Advisor: [Dr. Nieves R. Brisaboa](http://lbd.udc.es/ShowResearcherInformation
 [Department of Computer Science](http://www.inf.udec.cl)
 University of Concepción, Chile
 
-The [thesis](thesis.pdf) + [slides](slides) are freely available.
+The [thesis](thesis.pdf) + [slides](slides.pdf) are freely available.
 
 ## Abstract
 
