@@ -28,13 +28,13 @@ We experimentally evaluate all the structures and compare them with previous alt
 
 ### Journal
 
- - D. Caro, A. Rodríguez, N. R. Brisaboa, and A. Fariña, “Compressed $k^d$-tree for temporal graphs,” Knowledge and Information Systems, pp. 1–43, Dec. 2015. DOI: http://dx.doi.org/10.1007/s10115-015-0908-6 
- - D. Caro, M. Andrea Rodríguez, and N. R. Brisaboa, “Data structures for temporal graphs based on compact sequence representations,” Information Systems, vol. 51, pp. 1–26, Jul. 2015. DOI: http://dx.doi.org/10.1016/j.is.2015.02.002
+ - D. Caro, A. Rodríguez, N. R. Brisaboa, and A. Fariña, “Compressed $k^d$-tree for temporal graphs,” Knowledge and Information Systems, pp. 1–43, Dec. 2015. DOI: <http://dx.doi.org/10.1007/s10115-015-0908-6>
+ - D. Caro, M. Andrea Rodríguez, and N. R. Brisaboa, “Data structures for temporal graphs based on compact sequence representations,” Information Systems, vol. 51, pp. 1–26, Jul. 2015. DOI: <http://dx.doi.org/10.1016/j.is.2015.02.002>
 
 ### International Conferences
 
- - N. R. Brisaboa, D. Caro, A. Fariña, and M. A. Rodríguez, "A Compressed Suffix-Array Strategy for Temporal-Graph Indexing," presented at the Proceedings of the 21st International Symposium on String Processing and Information Retrieval - Volume 8799, Ouro Preto, Brazil, 2014, vol. 8799, pp. 77–88. DOI: http://dx.doi.org/10.1007/978-3-319-11918-2_8
- - G. D. Bernardo, N. R. Brisaboa, D. Caro, and M. A. Rodriguez, “Compact Data Structures for Temporal Graphs,” presented at the Data Compression Conference (DCC), 2013, 2013, p. 477. DOI: http://dx.doi.org/10.1109/DCC.2013.59 
+ - N. R. Brisaboa, D. Caro, A. Fariña, and M. A. Rodríguez, "A Compressed Suffix-Array Strategy for Temporal-Graph Indexing," presented at the Proceedings of the 21st International Symposium on String Processing and Information Retrieval - Volume 8799, Ouro Preto, Brazil, 2014, vol. 8799, pp. 77–88. DOI: <http://dx.doi.org/10.1007/978-3-319-11918-2_8>
+ - G. D. Bernardo, N. R. Brisaboa, D. Caro, and M. A. Rodriguez, “Compact Data Structures for Temporal Graphs,” presented at the Data Compression Conference (DCC), 2013, 2013, p. 477. DOI: <http://dx.doi.org/10.1109/DCC.2013.59> 
 
 ### International Workshops
 
@@ -45,12 +45,12 @@ We experimentally evaluate all the structures and compare them with previous alt
 
 
 ## Code and datasets
-Visit the [github project](http://github.com/diegocaro/temporalgraphs).
+Visit <http://github.com/diegocaro/temporalgraphs>.
 
 
 # Acknowledgements
 
-Through the journey of pursuing the PhD I received support from people all over the world. With these words I would like to say thank you to all of them. In particular, I would like to say thanks to Diego Seco for his help in the preliminary discussions of the structures, to Antonio Fariña for his infinite support in the development and implementation of many data structures, to Guillermo de Bernardo and Susana Ladra for introduce me to the $kˆ2$ world, to Gonzalo Navarro and Simon Gog for their suggestions on the improvement of the data structures and the experimental evaluation, and to Claudio Sanhueza from Yahoo! Labs Chile who help me to obtain and process the datasets for the experimental evaluation.
+Through the journey of pursuing the PhD I received support from people all over the world. With these words I would like to say thank you to all of them. In particular, I would like to say thanks to Diego Seco for his help in the preliminary discussions of the structures, to Antonio Fariña for his infinite support in the development and implementation of many data structures, to Guillermo de Bernardo and Susana Ladra for introduce me to the $k^2$ world, to Gonzalo Navarro and Simon Gog for their suggestions on the improvement of the data structures and the experimental evaluation, and to Claudio Sanhueza from Yahoo! Labs Chile who helped me to obtain datasets for the experimental evaluation.
 
 And of course, I would like to say thank to my co-phd-workers José Fuentes, Erick Elejalde, Natalia Jaña, Sandra Álvarez, Guillermo de Bernardo and Leticia González. 
 
