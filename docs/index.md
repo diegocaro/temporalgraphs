@@ -54,6 +54,6 @@ Through the journey of pursuing the PhD I received support from people all over 
 
 And of course, I would like to say thank to my co-phd-workers José Fuentes, Erick Elejalde, Natalia Jaña, Sandra Álvarez, Guillermo de Bernardo and Leticia González. 
 
-This work was supported partially supported by a CONICYT doctoral fellowship, Fondecyt 1140428, and by Fondef D09I1185.
+This work was partially supported by a CONICYT doctoral fellowship, by Fondecyt 1140428, and by Fondef D09I1185.
 
 The idea of creating this web site was borrowed from my friend and colleage [José Fuentes](http://www.inf.udec.cl/~josefuentes/thesis/).
