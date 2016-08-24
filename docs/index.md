@@ -1,4 +1,4 @@
-# Compact Data Structures for Temporal Graphs
+# Compact Data Structures and Query Processing for Temporal Graphs
 PhD Thesis 
 by Diego Caro A. \<diegocaro at udec cl\>
 
