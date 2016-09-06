@@ -1,0 +1,6 @@
+Create Makefile
+$ cmake -D CMAKE_CXX_COMPILER=/usr/local/bin/g++-4.8 . 
+
+If something went wrong:
+$ make VERBOSE=1
+
