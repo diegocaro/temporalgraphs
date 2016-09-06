@@ -1,12 +1,6 @@
 [submodule "wmatrix"]
 	path = wmatrix
 	url = https://github.com/diegocaro/wmatrix.git
-[submodule "libcds"]
-	path = libcds
-	url = https://github.com/diegocaro/libcds.git
-[submodule "sdsl-lite"]
-	path = sdsl-lite
-	url = https://github.com/simongog/sdsl-lite.git
 [submodule "cet"]
 	path = cet
 	url = https://github.com/diegocaro/cet.git
