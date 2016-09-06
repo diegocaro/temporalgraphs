@@ -1,0 +1,7 @@
+Rules:
+	1. Component values are threated as uint
+	2. Depth is managed as int
+	3. Number of children per node are managed as int
+	4. Positions and sizes on sequences or others are managed as size_t
+	5. Number of dimensiones as int
+	6. First dimension is the 0, and is the more "significative"
