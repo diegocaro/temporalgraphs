@@ -1,6 +1,3 @@
-[submodule "libcds"]
-	path = libcds
-	url = https://github.com/diegocaro/libcds
 [submodule "sdsl-lite"]
 	path = sdsl-lite
 	url = https://github.com/diegocaro/sdsl-lite
