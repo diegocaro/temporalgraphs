@@ -20,7 +20,7 @@ vertex connectivity changes along time.
 ## Author
 Original concept and prototype by [Diego Caro][diegocaro].
 
-##Acknowledgements
+## Acknowledgements
 
 This work was supported in part by a CONICYT doctoral fellowship, Fondecyt 1140428, and by Fondef D09I1185.
 
