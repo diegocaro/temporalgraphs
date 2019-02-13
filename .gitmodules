@@ -13,3 +13,6 @@
 [submodule "wmatrix"]
 	path = wmatrix
 	url = https://github.com/diegocaro/wmatrix
+[submodule "libcds"]
+	path = libcds
+	url = https://github.com/diegocaro/libcds
