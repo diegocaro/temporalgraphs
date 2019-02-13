@@ -2,6 +2,7 @@
 
 This repository contains the code for evaluating a sequence-based and 
 a multidimensional approach for representing temporal graphs.
+More info at https://diegocaro.cl/thesis/
 
 ## Definition of Temporal Graphs 
 
