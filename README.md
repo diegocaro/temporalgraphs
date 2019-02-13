@@ -19,19 +19,9 @@ vertex connectivity changes along time.
 ## Author
 Original concept and prototype by [Diego Caro][diegocaro].
 
-
-## Datasets ?
-
-
-## Publications
-
 ##Acknowledgements
 
 This work was supported in part by a CONICYT doctoral fellowship, Fondecyt 1140428, and by Fondef D09I1185.
-
-## Licence
-?
-
 
 [libcds]: https://github.com/fclaude/libcds
 [sdsl-lite]: https://github.com/simongog/sdsl-lite
