@@ -16,3 +16,9 @@
 [submodule "libcds"]
 	path = libcds
 	url = https://github.com/diegocaro/libcds
+[submodule "edgelogbase"]
+	path = edgelogbase
+	url = https://github.com/diegocaro/edgelogbase
+[submodule "adjlogbase"]
+	path = adjlogbase
+	url = https://github.com/diegocaro/adjlogbase
