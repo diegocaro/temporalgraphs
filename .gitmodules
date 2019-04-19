@@ -22,3 +22,6 @@
 [submodule "adjlogbase"]
 	path = adjlogbase
 	url = https://github.com/diegocaro/adjlogbase
+[submodule "compresslists"]
+	path = compresslists
+	url = git@github.com:diegocaro/compresslists.git
