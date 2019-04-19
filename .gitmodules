@@ -24,4 +24,7 @@
 	url = https://github.com/diegocaro/adjlogbase
 [submodule "compresslists"]
 	path = compresslists
-	url = git@github.com:diegocaro/compresslists.git
+	url = https://github.com/diegocaro/compresslists.git
+[submodule "etdc"]
+	path = etdc
+	url = https://github.com/diegocaro/etdc.git
