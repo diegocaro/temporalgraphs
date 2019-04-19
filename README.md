@@ -16,6 +16,23 @@ vertex connectivity changes along time.
 - [Compact Data Structures Library][libcds] - low-level succinct data structures
 - [Succinct Data Structure Library][sdsl-lite] - low-level succinct data structures 
 
+## How to compile
+
+First step: cloning and updating submodules
+```
+$ git clone https://github.com/diegocaro/temporalgraphs
+$ cd temporalgraphs
+$ git submodule update --init --recursive
+```
+
+
+Then compile each module using cmake:
+```
+$ cd edgelogbase/build
+$ cmake ..
+```
+
+And do the same with cas, cet, adjlogbase, and so on... Thanks to Luiz Fernando Afra Brito for providing these instructions.
 
 ## Author
 Original concept and prototype by [Diego Caro][diegocaro].
